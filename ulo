@@ -26,7 +26,7 @@ fwdriver_path="./core/root/lib"
 repos="https://github.com/Totok123/ULO-repository"
 
 # Custom ROOTFS Repository on releases
-rootfs_repo="armarchindo/rootfs-openwrt"
+rootfs_repo="Totok123/rootfs-openwrt"
 
 start_cnt=$SECONDS
 
